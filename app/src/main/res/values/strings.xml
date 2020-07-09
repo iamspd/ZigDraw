@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ZigDraw</string>
+
+    <!-- text on the button widget -->
+    <string name="draw">Draw</string>
+
+    <!-- string array of location points for the Y axis -->
+    <string-array name="memoryCycle">
+        <item>120</item>
+        <item>90</item>
+        <item>120</item>
+        <item>90</item>
+
+        <item>120</item>
+        <item>90</item>
+        <item>90</item>
+        <item>120</item>
+        <item>90</item>
+    </string-array>
+</resources>
